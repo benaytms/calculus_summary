@@ -2,7 +2,7 @@ PDF do resumo de cálculo I feito em LaTeX.
 
 Documento em inglês.  
 
-For reference:  
+Referências:  
 1. ocw[dot]mit[dot]edu  
 &emsp; Single Variable Calculus by Prof. David Jerison.
 2. mathisfun[dot]com  
